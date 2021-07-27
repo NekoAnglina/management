@@ -1,0 +1,8 @@
+rootProject.name = "My Application2"
+include ':app'
+include ':service'
+include ':fragment'
+include ':fragmentmanagers'
+include ':viewpager2'
+include ':viewpager_fragment'
+include ':login'
